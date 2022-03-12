@@ -3,10 +3,8 @@
 #include <stdio.h>
 
 /*
- * main - Entry point
+ * main - Determines either greater than 5, is less than 6, or is 0
  *
- * Description: print the value of n status:
- *              greater than, is zero and is not less than 6.
  *
  * Return: Always O (Success)
  */
