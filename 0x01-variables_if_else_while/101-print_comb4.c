@@ -16,16 +16,16 @@ int main(void)
 	while (b < 58)
 		{
 			a = 48;
-			while (i < 58)
+			while (a < 58)
 		{
 			c = 48;
 			while (c < 58)
 			{
 		if (b != a && b != c && a != c && b < a && a < c)
 		{
-			putchar(e);
-			putchar(i);
-			putchar(g);
+			putchar(b);
+			putchar(a);
+			putchar(c);
 		if (a == 56 && b == 55 && c == 57)
 			{
 		break;
