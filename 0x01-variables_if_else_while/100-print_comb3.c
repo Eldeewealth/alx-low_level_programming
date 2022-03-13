@@ -9,13 +9,13 @@ int main(void)
 {
 	int i, x;
 
-	i = 12;
+	i = 20;
 	x = 80;
 
 	while (x < 90)
 	{
-	i = 12;
-		while (i < 90)
+	i = 20;
+	while (i < 90)
 		{
 	putchar(x);
 	putchar(i);
