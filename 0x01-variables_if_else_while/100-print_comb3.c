@@ -10,7 +10,7 @@ int main(void)
 	int i, x;
 
 	i = 12;
-	e = 80;
+	x = 80;
 
 	while (x < 90)
 	{
