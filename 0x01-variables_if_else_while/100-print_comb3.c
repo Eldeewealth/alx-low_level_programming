@@ -19,15 +19,16 @@ int main(void)
 		{
 	putchar(x);
 	putchar(i);
-		if (i == 89 && x == 89)
+	if (i == 89 && x == 89)
 	{
 	break;
 		}
 	putchar(',');
-	putchar(' ');											i++;
-		}
-		x++;
+	putchar(' ');
+	i++;
 	}
-			putchar('\n');
-			return (0);
+	x++;
+	}
+		putchar('\n');
+		return (0);
 }
