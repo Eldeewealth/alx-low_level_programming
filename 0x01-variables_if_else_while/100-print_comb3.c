@@ -12,14 +12,14 @@ int main(void)
 	i = 30;
 	x = 30;
 
-	while (x < 60)
+	while (x < 40)
 	{
 	i = 30;
-	while (i < 60)
+	while (i < 40)
 		{
 	putchar(x);
 	putchar(i);
-	if (i == 59 && x == 59)
+	if (i == 39 && x == 39)
 	{
 	break;
 		}
