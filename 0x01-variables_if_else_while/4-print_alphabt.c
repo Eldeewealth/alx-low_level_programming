@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/*
+/**
  * main - Entry point
  *
  * Description: print all aplhabet letters except q and e
