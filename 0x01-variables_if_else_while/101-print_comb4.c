@@ -32,9 +32,10 @@ int main(void)
 		putchar(',');
 		putchar(' ');
 			}c++;
-			}a++;
 			}
-			b++;
+		a++;
+			}
+		b++;
 			}
 		putchar('\n');
 		return (0);
