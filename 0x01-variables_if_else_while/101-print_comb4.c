@@ -12,6 +12,7 @@ int main(void)
 	a = 48;
 	b = 48;
 	c = 48;
+
 	while (b < 58)
 		{
 			a = 48;
