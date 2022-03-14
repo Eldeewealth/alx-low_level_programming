@@ -26,19 +26,19 @@ int main(void)
 			putchar(b);
 			putchar(a);
 			putchar(c);
-			if (a = 56 && b = 55 && c = 57)
-					{
-						break;
-							}
-						putchar(',');
-						putchar(' ');
-							}
-							c++;
-							}
-							a++;
-							}
-							b++;
-																}
-							putchar('\n');
-								return (0);
+	if (a == 56 && b == 55 && c == 57)
+			{
+			break;
+					}
+				putchar(',');
+				putchar(' ');
+						}
+						c++;
+						}
+						a++;
+						}
+						b++;
+						}
+	putchar('\n');
+	return (0);
 }
