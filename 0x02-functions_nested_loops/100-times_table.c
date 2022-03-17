@@ -7,7 +7,7 @@ void print_times_table(int x)
 {
 	int i, j, first, second, third;
 
-		if (n > 15 || x < 0)
+		if (x > 15 || x < 0)
 		return;
 		for (i = 0; i <= x; i++)
 			{
