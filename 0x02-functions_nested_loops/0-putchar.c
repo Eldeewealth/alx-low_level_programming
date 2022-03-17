@@ -7,7 +7,7 @@
  *
  * Return: On success 0.
  */
-		int _putchar(char c)
+		int main(void)
 {
 		_putchar('_');
 		_putchar('p');
