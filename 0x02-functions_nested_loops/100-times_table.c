@@ -21,7 +21,7 @@ void print_times_table(int x)
 			if ((i * j) < 100)
 		_putchar(' ');
 			else
-		_putchar(first + '0');
+	_putchar(first + '0');
 		if ((i * j) < 10)
 		_putchar(' ');
 		else
