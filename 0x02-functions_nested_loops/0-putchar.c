@@ -10,7 +10,8 @@
 
 int main()
 {
-		_putchar('_');
+		int _putchar(void){
+	_putchar('_');
 		_putchar('p');
 		_putchar('u');
 		_putchar('t');
@@ -20,4 +21,5 @@ int main()
 		_putchar('r');
 		_putchar('\n');
 		return 0;
+		}
 }
