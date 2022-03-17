@@ -9,11 +9,13 @@
 
 void print_alphabet_x10(void)
 {
-	int i;
-
-	for (i = 'a'; i <= 'z'; i++)
+	int a,b;
+for (a = 0; a <= 9; a++)
+{
+	for (b = 'a'; i <= 'z'; i++)
 		{
 	_putchar(i);
 			}
 	_putchar('\n');
+	}
 }
