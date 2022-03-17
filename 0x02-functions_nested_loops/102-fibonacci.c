@@ -16,7 +16,7 @@ int main(void)
 	for (i = 0; i < 50; i++)
 		{
 	nextNum = prev1 + prev2;
-			if (i == 49)
+		if (i == 49)
 		printf("%lu", nextNum);
 			else
 	printf("%lu, ", nextNum);
