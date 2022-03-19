@@ -10,8 +10,8 @@ void print_most_numbers(void)
 
 	for (i = '0'; i < '9'; i++)
 	{
-		if(i != 50 && i != 52)
+		if(i != '2' && i != '4')
 		_putchar(i);
 	}
-		_putchar('\n');
+	_putchar('\n');
 }
