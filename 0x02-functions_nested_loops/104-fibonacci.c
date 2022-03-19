@@ -9,8 +9,7 @@
  */
 int main(void)
 {
-	int i;
-	unsigned long int prev1, prev2, nextNum;
+	unsigned long int i; prev1, prev2, nextNum;
 
 	prev2 = 0;
 	prev1 = 1;
